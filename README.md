@@ -3,8 +3,8 @@
 This Notes App API is a full-stack application built with React on the frontened and Node.js/Express on the backend. It allows userts to create, edit, view and delete notes.
 
 # Technologies 🚀
-º Frontend: [REACT](https://react.dev/) version 19.1.1.
-º Backend: Node.js + Express.
+- Frontend: [REACT](https://react.dev/) version 19.1.1.
+- Backend: Node.js + Express.
 
 ## Development server backend 🛠️
 
